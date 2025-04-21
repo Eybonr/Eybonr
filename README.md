@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Eybonr
-- 👀 I’m interested in ...Web design
-- 🌱 I’m currently learning ...Programming 
-- 💞️ I’m looking to collaborate on ... Web Development 
+💻 Developer | 🚀 Always building cool stuff | 🧠 Lifelong learner | 🌍 Making things that matter
 - 📫 How to reach me ...email me eybonricks@gmail.com 
 
 <!---
